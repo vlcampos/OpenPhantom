@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Motherboard")(type "Legacy")(uri "C:/Users/vlcam/Documents/OpenTendo-master/Board Files/Motherboard.lib")(options "")(descr ""))
+  (lib (name "VagNES")(type "Legacy")(uri "C:/Users/vlcam/OneDrive/Documentos/OpenTendo-master/Board Files/OpenPhantom.lib")(options "")(descr ""))
+  (lib (name "VagNES-cache")(type "Legacy")(uri "${KIPRJMOD}/OpenPhantom-cache.lib")(options "")(descr ""))
+)
