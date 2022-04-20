@@ -13,3 +13,18 @@ I'm just a hobbyst trying to repair my old consoles and keep the very interestin
 The software used for the schematics was the Kicad 6.0.
 
 Enjoy!
+
+OpenPhantom é um projeto open-source para uma placa de reposição para o Phantom System PH-8 da Gradiente, o mais famoso dos clones de Nintendinho feitos no Brasil nas décadas de 80 e 90.
+Essa placa surgiu como um hobby que envolveu uma placa com problemas, esquemas de internet e um bocado de engenharia revera.
+
+Algumas modificações foram feitas para facilitar a reprodução da placa no Brasil.
+Se quiserem acompanhar como foi o desenvolvimento é só ver meu twitter @vagnerlc.
+Mandem as modificações, melhorias e projetos pessoais lá também e em caso de dúvidas é só me chamar por lá.
+
+Por ser open source vocês podem usar o projeto do jeito que quiserem: venda, reprodução, modificação, etc...
+
+Eu sou só um hobista tentando consertar minhas velharias e manter a história desse console viva.
+
+Para o desenvolvimento foi utilizado o Kicad 6.0.
+
+Divirtam-se!
