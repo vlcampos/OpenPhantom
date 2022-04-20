@@ -367,7 +367,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "D:/NES/FreeRouting/VagNES-rev2.dsn",
+      "specctra_dsn": "../../FreeRouting/OpenPhantom.dsn",
       "step": "",
       "vrml": ""
     },
