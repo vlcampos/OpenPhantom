@@ -380,7 +380,6 @@
         "microvia_drill": 0.1,
         "name": "Vagner",
         "nets": [
-          "/+8,2V",
           "/4016-D0",
           "/4016-D1",
           "/4016-D2",
@@ -463,7 +462,6 @@
           "/PPU-~{WE}",
           "/RST",
           "/SYSTEM-CLK",
-          "/VCC",
           "/VRAM-A10",
           "/VRAM-~{CE}",
           "/WRAM-~{CE}",
@@ -527,7 +525,9 @@
         "microvia_drill": 0.2,
         "name": "Vagner_GND",
         "nets": [
-          "/GND"
+          "/+8,2V",
+          "/GND",
+          "/VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
