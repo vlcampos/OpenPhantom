@@ -35,9 +35,9 @@
   (fp_circle (center 3.2512 -5.79882) (end 2.70002 -5.84962) (layer "F.SilkS") (width 0.381) (fill none) (tstamp 67f6e996-3c99-493c-8f6f-e739e2ed5d7a))
   (fp_circle (center -3.2512 4.0005) (end -3.79984 3.9497) (layer "F.SilkS") (width 0.381) (fill none) (tstamp a05d7640-f2f6-4ba7-8c51-5a4af431fc13))
   (fp_circle (center 3.2512 0) (end 2.70002 -0.0508) (layer "F.SilkS") (width 0.381) (fill none) (tstamp a7520ad3-0f8b-4788-92d4-8ffb277041e6))
-  (pad "1" thru_hole oval (at 0 0) (size 3.19786 1.99898) (drill oval 2.1971 0.99568) (layers *.Cu *.Mask "F.SilkS") (tstamp f3490fa5-5a27-423b-af60-53609669542c))
-  (pad "2" thru_hole oval (at 5.0546 -3.99796) (size 1.99898 3.19786) (drill oval 0.99568 2.1971) (layers *.Cu *.Mask "F.SilkS") (tstamp 1860e030-7a36-4298-b7fc-a16d48ab15ba))
-  (pad "2" thru_hole oval (at -5.0546 -3.99796) (size 1.99898 3.19786) (drill oval 0.99568 2.1971) (layers *.Cu *.Mask "F.SilkS") (tstamp b6270a28-e0d9-4655-a18a-03dbf007b940))
+  (pad "1" thru_hole oval (at 5.0546 -3.99796) (size 1.99898 3.19786) (drill oval 0.99568 2.1971) (layers *.Cu *.Mask "F.SilkS") (tstamp 1860e030-7a36-4298-b7fc-a16d48ab15ba))
+  (pad "1" thru_hole oval (at -5.0546 -3.99796) (size 1.99898 3.19786) (drill oval 0.99568 2.1971) (layers *.Cu *.Mask "F.SilkS") (tstamp b6270a28-e0d9-4655-a18a-03dbf007b940))
+  (pad "2" thru_hole oval (at 0 0) (size 3.19786 1.99898) (drill oval 2.1971 0.99568) (layers *.Cu *.Mask "F.SilkS") (tstamp f3490fa5-5a27-423b-af60-53609669542c))
   (model "${KISYS3DMOD}/walter/conn_av.3dshapes/rca_white.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
